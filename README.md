@@ -52,7 +52,8 @@ endmodule
 
 **RTL realization**
 
-![image](https://github.com/premalatha-sureshbabu/BOOLEAN_FUNCTION_MINIMIZATION/assets/120620842/18e26de1-dd14-4e34-b53b-182044799816)
+![Screenshot 2024-10-03 102153](https://github.com/user-attachments/assets/bec30047-674c-4ab3-b936-905fdc43f170)
+
 
 **Truth Table**
 
